@@ -36,7 +36,7 @@
 
 童年记忆                          一只巨大的粉色的恐龙在街上行走
 
-<img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887672991-acc3273a-a51a-42f9-a2f7-217622c965b8.png" alt="img" style="zoom:40%;" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887673024-53a72b1d-96a7-46cd-a1e3-eff0f492a11a.png" alt="img" style="zoom:80%;" />
+<img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887672991-acc3273a-a51a-42f9-a2f7-217622c965b8.png" alt="img" style="width:300px" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887673024-53a72b1d-96a7-46cd-a1e3-eff0f492a11a.png" alt="img" style="width:300px;" />
 
 小黄人                                     功夫熊猫
 
