@@ -22,7 +22,7 @@
 
 <img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887671498-be6f4149-1559-4c67-991a-914cecc18e83.png" alt="img" style="zoom: 50%;" />
 
- <img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887671665-98ed9f1c-fddf-4ef3-835d-005f1d29c196.png" alt="img" style="zoom:30%;" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887672529-54c29e04-be72-4017-988b-6b750efb91af.png" alt="img" style="zoom:30%;" />
+ <img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887671665-98ed9f1c-fddf-4ef3-835d-005f1d29c196.png" alt="img" style="width:300px" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887672529-54c29e04-be72-4017-988b-6b750efb91af.png" alt="img" style="width:300px" />
 
 5.点开画廊页面，可以看到棚友们的艺术创作
 
@@ -32,7 +32,7 @@
 
 小桥流水人家                                      梦幻    
 
-<img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887672471-84ad4dbb-d052-43ff-8e83-5c272a3a7a62.png" alt="img" style="zoom:55%;" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887672534-c0a1100b-fb05-4269-bbad-e25cd5036c64.png" alt="img" style="zoom:70%;" />
+<img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887672471-84ad4dbb-d052-43ff-8e83-5c272a3a7a62.png" alt="img" style="width:300px" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887672534-c0a1100b-fb05-4269-bbad-e25cd5036c64.png" alt="img" style="width:300px" />
 
 童年记忆                          一只巨大的粉色的恐龙在街上行走
 
@@ -52,11 +52,11 @@
 
 5.手机端展示
 
- <img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887673947-be877883-0917-481a-80df-a08656339d5f.png" alt="img" style="zoom:33%;" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887673942-6ce19149-0b8b-4827-94a8-0f63f0e23830.png" alt="img" style="zoom:33%;" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674033-91abd8fd-2420-473a-98e3-afb74c87aa12.png" alt="img" style="zoom:33%;" />    
+ <img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887673947-be877883-0917-481a-80df-a08656339d5f.png" alt="img" style="width:250px" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887673942-6ce19149-0b8b-4827-94a8-0f63f0e23830.png" alt="img" style="width:250px" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674033-91abd8fd-2420-473a-98e3-afb74c87aa12.png" alt="img" style="width:250px" />    
 
-<img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674157-cb81af39-3322-4954-8da8-301472bd412e.png" alt="img" style="zoom:33%;" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674390-2fb4eed5-7529-4221-9841-0b217a4a9759.png" alt="img" style="zoom:33%;" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674526-7180f353-c9e2-4c33-8c03-b4017adf1dee.png" alt="img" style="zoom:33%;" />
+<img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674157-cb81af39-3322-4954-8da8-301472bd412e.png" alt="img" style="width:250px" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674390-2fb4eed5-7529-4221-9841-0b217a4a9759.png" alt="img" style="width:250px" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674526-7180f353-c9e2-4c33-8c03-b4017adf1dee.png" alt="img" style="width:250px" />
 
-<img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674764-77bda1a7-1e9a-44f5-8e6a-ff6e3c7fe8fd.png" alt="img" style="zoom:33%;" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674911-0ae350c0-cde5-4c07-b5b8-59194bbcdd69.png" alt="img" style="zoom:33%;" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674970-6f4ba017-fdee-489f-9346-93941ec56af1.png" alt="img" style="zoom:33%;" />
+<img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674764-77bda1a7-1e9a-44f5-8e6a-ff6e3c7fe8fd.png" alt="img" style="width:250px" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674911-0ae350c0-cde5-4c07-b5b8-59194bbcdd69.png" alt="img" style="width:250px" /><img src="https://cdn.nlark.com/yuque/0/2024/png/43207721/1721887674970-6f4ba017-fdee-489f-9346-93941ec56af1.png" alt="img" style="width:250px" />
 
 🦴  —————🦴₊ ˚‧⸝⸝⸝•༝•⸝⸝⸝‧˚ ₊🦴  ————🦴
 
